@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stephaninieee
+# 👋 Hi, I’m @stephaninieee
 - 🌱 I’m  incoming MCS student @Rice University 
 - 💞️ I’m activly seeking for 2024 swe intern
 - 📫 Feel free to reach me ! rc118@rice.edu
