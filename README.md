@@ -7,7 +7,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/rung-de chu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rung-de chu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/stephanieeee-chu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rung-de chu" height="30" width="40" /></a>
 </p>
 <!---
 stephaninieee/stephaninieee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
