@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Stephanie( Rung-De) Chu
 
 
-- 🌱 I’m  incoming MCS student @Rice University 
+- 🌱 I’m  MCS student @Rice University 
 - 💼 I’m activly seeking for 2024 swe intern
 - 📫 How to reach me: rc118@rice.edu
 
