@@ -44,5 +44,4 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 
-## :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=stephaninieee&theme=flag-india&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
