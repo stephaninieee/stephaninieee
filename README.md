@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Stephanie( Rung-De) Chu
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=314DF7&random=false&width=435&lines=This+is+Stephanie+!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=314DF7&random=false&width=435&lines=This+is+Stephanie+!%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 - 🌱 I’m  MCS student @Rice University 
 - 💼 I’m activly seeking for 2024 swe intern
