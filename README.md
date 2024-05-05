@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=aws,gcp,azure,mysql,mongodb,opencv,sqlite, tensorflow, git, postman " />
+		<img src="https://skillicons.dev/icons?i=aws,gcp,azure,mysql,mongodb,opencv,sqlite, tensorflow, git, postman" />
 	</a>
 </p>
 
