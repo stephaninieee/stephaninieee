@@ -31,4 +31,5 @@ You can click the Preview link to take a look at your changes.
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephaninieee&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephaninieee&layout=compact&bg_color=000000)
+
