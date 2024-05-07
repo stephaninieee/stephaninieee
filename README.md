@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=py,java,cpp,c,angular,react,ts,js,flask,bootstrap,django" />
+		<img src="https://skillicons.dev/icons?i=py,java,cpp,c,angular,react,ts,js,html,css,flask,bootstrap,django" />
 	</a>
 </p>
 <p align="left">
