@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=314DF7&random=false&width=435&lines=This+is+Stephanie+!%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 - 🦉 Master of Computer Science Student @ Rice University 🍚
-- 💼 I’m actively seeking for 2024 Software Engineer New Grad job 
+- 💼 I’m actively seeking for 2025 Software Engineer New Grad job 
 - 📫 How to reach me: rc118@rice.edu
 
 ## Connect with me:
